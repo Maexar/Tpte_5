@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF47B6E-EC0B-4B61-B491-7B784AC696FF}|exe10\\exe10.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\exe10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF47B6E-EC0B-4B61-B491-7B784AC696FF}|exe10\\exe10.csproj|solutionrelative:exe10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC792F0-D7F8-4B1B-B546-B933F2AAC1A8}|ex9\\ex9.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC792F0-D7F8-4B1B-B546-B933F2AAC1A8}|ex9\\ex9.csproj|solutionrelative:ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C791EC-44E3-4D3B-A6C2-8502964F399B}|ex8\\ex8.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C791EC-44E3-4D3B-A6C2-8502964F399B}|ex8\\ex8.csproj|solutionrelative:ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C168E324-38E5-4343-BD14-BA5D6C77ECF1}|ex7\\ex7.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C168E324-38E5-4343-BD14-BA5D6C77ECF1}|ex7\\ex7.csproj|solutionrelative:ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE82B1A3-BD1A-4A5D-8B9D-694EFCDF3B20}|ex6\\ex6.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE82B1A3-BD1A-4A5D-8B9D-694EFCDF3B20}|ex6\\ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16764E1A-9787-4C51-92FF-3B10D7F6ACE6}|ex5\\ex5.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16764E1A-9787-4C51-92FF-3B10D7F6ACE6}|ex5\\ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151182ED-E796-45C9-9C17-36F64B85A0EE}|ex4\\ex4.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151182ED-E796-45C9-9C17-36F64B85A0EE}|ex4\\ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D974568D-E99F-44E7-B904-13455896CE3C}|ex3\\ex3.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D974568D-E99F-44E7-B904-13455896CE3C}|ex3\\ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D974568D-E99F-44E7-B904-13455896CE3C}|ex3\\ex3.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex3\\models\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D974568D-E99F-44E7-B904-13455896CE3C}|ex3\\ex3.csproj|solutionrelative:ex3\\models\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D974568D-E99F-44E7-B904-13455896CE3C}|ex3\\ex3.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex3\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D974568D-E99F-44E7-B904-13455896CE3C}|ex3\\ex3.csproj|solutionrelative:ex3\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A43CCE1-1770-4079-AF04-37BC6009B311}|ex2\\ex2.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A43CCE1-1770-4079-AF04-37BC6009B311}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A43CCE1-1770-4079-AF04-37BC6009B311}|ex2\\ex2.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex2\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A43CCE1-1770-4079-AF04-37BC6009B311}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A43CCE1-1770-4079-AF04-37BC6009B311}|ex2\\ex2.csproj|c:\\users\\marlo\\desktop\\projetos\\3 periodo\\p.o\\ex1\\ex2\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A43CCE1-1770-4079-AF04-37BC6009B311}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\exe10\\Program.cs",
+              "RelativeDocumentMoniker": "exe10\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\exe10\\Program.cs",
+              "RelativeToolTip": "exe10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:42:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex9\\Program.cs",
+              "RelativeDocumentMoniker": "ex9\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex9\\Program.cs",
+              "RelativeToolTip": "ex9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:42:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex8\\Program.cs",
+              "RelativeDocumentMoniker": "ex8\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex8\\Program.cs",
+              "RelativeToolTip": "ex8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:42:26.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex7\\Program.cs",
+              "RelativeDocumentMoniker": "ex7\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex7\\Program.cs",
+              "RelativeToolTip": "ex7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:42:11.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex6\\Program.cs",
+              "RelativeDocumentMoniker": "ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex6\\Program.cs",
+              "RelativeToolTip": "ex6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:42:01.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex5\\Program.cs",
+              "RelativeDocumentMoniker": "ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex5\\Program.cs",
+              "RelativeToolTip": "ex5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:41:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex4\\Program.cs",
+              "RelativeDocumentMoniker": "ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex4\\Program.cs",
+              "RelativeToolTip": "ex4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:41:36.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex3\\Models\\Escola.cs",
+              "RelativeDocumentMoniker": "ex3\\Models\\Escola.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex3\\Models\\Escola.cs",
+              "RelativeToolTip": "ex3\\Models\\Escola.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:40:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex3\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "ex3\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex3\\Models\\Aluno.cs",
+              "RelativeToolTip": "ex3\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:40:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex3\\Program.cs",
+              "RelativeDocumentMoniker": "ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex3\\Program.cs",
+              "RelativeToolTip": "ex3\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:38:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex2\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex2\\Models\\Empresa.cs",
+              "RelativeToolTip": "ex2\\Models\\Empresa.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:34:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex2\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex2\\Models\\Funcionario.cs",
+              "RelativeToolTip": "ex2\\Models\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:33:32.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\Desktop\\Projetos\\3 periodo\\P.O\\ex1\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:32:28.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
